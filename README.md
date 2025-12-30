@@ -227,9 +227,3 @@ If you want fully deterministic runs, you can additionally configure TensorFlow 
 - 52200207 – **Phạm Tuấn Đạt**
 - 52200214 – **Trần Hồ Hoàng Vũ**
 - 52200216 – **Trần Khiết Lôi**
-
----
-
-## License
-
-MIT (or update to your preferred license before publishing)
